@@ -1,0 +1,155 @@
+body{
+    font-family:"Roboto";
+    background-color: #FFFFFF;
+}
+    
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+
+.Hero-image{
+    width: 1440px;
+    height: 600px;
+    top: 72px;
+    gap: 0px;
+    opacity: 0px;
+
+    background-color:#2E2F42;
+}
+
+.Hero-image-text{
+    padding-top: 188px;
+    padding-left: 472px;
+    color: white;
+    width: 496px;
+    height: 120px;
+    top: 260px;
+    left: 472px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.Hero-image-button-text{
+    width: 105px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    
+}
+
+.Hero-image-button{
+    width: Hug (169px)px;
+    height: Hug (56px)px;
+    top: 428px;
+    left: 636px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    margin-left:636px;
+    margin-bottom: 2816px;
+    background-color: #4D5AE5;
+    font-family: inherit;
+}
+.Hero-image-button:hover{
+    background-color:#404BBF;
+}
+
+#Our-Team{
+    background-color: #F4F4FD;
+   
+}
+
+.header-logo{
+    width: Hug (115px)px;
+    height: Fixed (24px)px;
+    top: 24px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+    color: #4D5AE5;
+    display: inline;
+}
+
+.footer-logo{
+    width: Hug (115px)px;
+    height: Fixed (24px)px;
+    top: 3088px;
+    left: 156px;
+    gap: 0px;
+    opacity: 0px;
+}
+.logo{
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+.black{
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+    color: #2E2F42;
+}
+
+.white{
+    font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#F4F4FD ;
+}
+
+.Menu-nav-link{
+    display: inline;
+}
+
+#studio{
+    margin-top: 55px;
+    margin-left: 690px;
+
+}
+
+.features ul{
+    margin: 0; 
+    padding: 4px; 
+   }
+.features ul li {
+    display: inline; 
+    margin-right: 5px; 
+    border: 1px solid #000; 
+    padding: 3px; }
+
+.team-card{
+    background-color: white;
+}
